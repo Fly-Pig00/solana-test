@@ -1,0 +1,15 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml",
+    "./programs/solana-test/Cargo.toml"
+  ]
+}
